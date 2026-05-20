@@ -8,6 +8,8 @@ venv/
 
 # Jupyter
 .ipynb_checkpoints/
+.jupyter
+notebooks/.jupyter
 
 # Data files
 data/*.csv
